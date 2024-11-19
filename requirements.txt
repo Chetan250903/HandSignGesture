@@ -5,3 +5,4 @@ cvzone
 pillow
 tensorflow==2.18.0
 mediapipe
+libgl1
