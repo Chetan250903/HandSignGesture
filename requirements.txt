@@ -4,5 +4,4 @@ streamlit
 cvzone
 pillow
 tensorflow==2.18.0
-keras==2.18.0
 mediapipe
