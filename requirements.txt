@@ -3,5 +3,5 @@ numpy
 streamlit
 cvzone
 pillow
-tensorflow
+tensorflow==2.17.0
 mediapipe
