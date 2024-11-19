@@ -3,6 +3,6 @@ numpy
 streamlit
 cvzone
 pillow
-tensorflow==2.10.0
-keras==2.10.0
+tensorflow==2.13.0
+keras==2.13.0
 mediapipe
